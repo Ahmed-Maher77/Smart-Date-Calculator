@@ -9,7 +9,7 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
-🌐**Demo (Live Preview):** <a href="" target="_blank">/</a> 
+🌐**Demo (Live Preview):** <a href="https://smart-date-calculator.netlify.app/" target="_blank">https://smart-date-calculator.netlify.app/</a> 
 
 <hr/>
 
@@ -24,8 +24,8 @@ A sophisticated date calculator that enables users to:
 
 ## Technologies
 - React.js
-- CSS3 Modules
-- HTML5 Semantic Markup
+- CSS Modules
+- HTML Semantic Markup
 - Vite Build System
 
 <hr/>
@@ -39,7 +39,7 @@ npm run dev
 <hr/>
 
 ## 👀 Website Preview:
-<a href="website-url" title="demo">
+<a href="https://smart-date-calculator.netlify.app/" title="demo">
   <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 </a>
 

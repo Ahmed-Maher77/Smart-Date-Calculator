@@ -22,15 +22,16 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
-## Technologies
-- React.js
-- CSS Modules
-- HTML Semantic Markup
-- Vite Build System
+## 💻 Used Technologies  
+
+- **React.js** → Component-based library for building dynamic UIs.  
+- **CSS Modules** → Scoped, maintainable styling at the component level.  
+- **HTML5 Semantic Markup** → Provides accessible and well-structured content.  
+- **Vite** → Fast build tool and development server for modern React apps.  
 
 <hr/>
 
-## Installation
+## 📤 Installation
 ```bash
 npm install
 npm run dev

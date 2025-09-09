@@ -1,6 +1,6 @@
 import { memo, useMemo } from "react";
 import { useCounterContext } from "../utils/CounterContextProvider";
-import styles from  "../App.module.css";
+import styles from "../App.module.css";
 
 export const DaysCount = () => {
 	const { count, includeWeekends } = useCounterContext();
@@ -34,15 +34,26 @@ export const DaysCount = () => {
 	}, [count, includeWeekends]);
 
 	return (
-		<div className={styles.dateDisplay}>
+		<section
+			className={styles.dateDisplay}
+			aria-live="polite"
+			aria-label="Calculated date result"
+		>
 			<p>
 				{count >= 0 ? "Future" : "Past"} Date:{" "}
-				<strong className={styles.dateValue}>{futureDate}</strong>
+				<strong
+					className={styles.dateValue}
+					aria-label={`${
+						count >= 0 ? "Future" : "Past"
+					} date is ${futureDate}`}
+				>
+					{futureDate}
+				</strong>
 			</p>
 			<p className={styles.timezoneNotice}>
 				Dates are calculated based on your local time zone
 			</p>
-		</div>
+		</section>
 	);
 };
 

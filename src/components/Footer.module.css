@@ -1,0 +1,59 @@
+.footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(26, 26, 46, 0.95);
+	backdrop-filter: blur(20px);
+	border-top: 1px solid rgba(255, 255, 255, 0.05);
+	padding: 1rem 0;
+	text-align: center;
+	z-index: 100;
+}
+
+.footerContent {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0.5rem;
+	flex-wrap: wrap;
+}
+
+.copyright {
+	color: #64748b;
+	font-size: 0.8rem;
+	margin: 0;
+	font-weight: 400;
+}
+
+.portfolioLink {
+	color: #90e0ef;
+	text-decoration: none;
+	font-size: 0.8rem;
+	font-weight: 500;
+	transition: color 0.3s ease;
+	opacity: 0.8;
+}
+
+.portfolioLink:hover {
+	color: #00b4d8;
+	opacity: 1;
+}
+
+.portfolioLink:focus {
+	outline: 1px solid #00b4d8;
+	outline-offset: 2px;
+	border-radius: 2px;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+	.footer {
+		padding: 0.75rem 0;
+	}
+
+	.copyright,
+	.portfolioLink {
+		font-size: 0.75rem;
+	}
+}

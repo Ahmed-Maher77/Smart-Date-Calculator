@@ -10,17 +10,9 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
-🌐**Demo (Live Preview):** <a href="https://smart-date-calculator.netlify.app/" target="_blank">https://smart-date-calculator.netlify.app/</a>
+## 🌐 **Demo (Live Preview):**
 
-<hr/>
-
-## Features
-
--   🔄 Bidirectional date calculation
--   🚫 Weekend exclusion toggle
--   ♿ WCAG-compliant accessibility
--   📱 Mobile-responsive design
--   ⚡ Instant result updates
+👉 **Live Preview:** <a href="https://smart-date-calculator.netlify.app/" target="_blank">https://smart-date-calculator.netlify.app/</a>
 
 <hr/>
 
@@ -33,6 +25,46 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
+## 🎥 **Demo Video:**
+
+📹 **Watch Video on LinkedIn:** <a href="" target="_blank">__coming soon__</a> 
+
+<hr/>
+
+## ✨Key Features:
+
+-   🔄 Bidirectional date calculation
+-   🚫 Weekend exclusion toggle
+-   ♿ WCAG-compliant accessibility
+-   📱 Mobile-responsive design
+-   ⚡ Instant result updates
+
+<hr/>
+
+## 👀 Website Preview:
+<a href="https://smart-date-calculator.netlify.app/" title="demo">
+  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+</a>
+
+
+<hr/>
+
+## 🎯 Usage
+
+1. **Select Days**: Use the range slider or number input to choose days (-100 to +100)
+2. **Toggle Weekends**: Check "Exclude weekends" to skip Saturday and Sunday
+3. **View Results**: See the calculated date in natural language format
+4. **Reset**: Click "Reset" to return to today's date
+
+### Keyboard Shortcuts
+
+-   **Arrow Keys**: Navigate day values (↑/→ increase, ↓/← decrease)
+-   **Tab**: Navigate between controls
+-   **Enter/Space**: Activate buttons
+-   **Escape**: Close focused elements
+
+<hr/>
+
 ## 📤 Installation
 ```bash
 npm install
@@ -41,16 +73,15 @@ npm run dev
 
 <hr/>
 
-## 👀 Website Preview:
-
-<a href="https://smart-date-calculator.netlify.app/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
-</a>
-
-<hr/>
-
 ## 📬 Contact & Contribution
+- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
+- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
 
--   **Portfolio:** [https://ahmedmaher-portfolio.vercel.app/]
--   **GitHub:** [https://github.com/Ahmed-Maher77]
--   Contributions are welcome! Feel free to submit issues or pull requests.
+> Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or inspiring, please consider giving it a ⭐. Your support helps me grow and share more open-source projects like this!

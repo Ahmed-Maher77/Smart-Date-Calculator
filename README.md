@@ -24,6 +24,7 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
+<<<<<<< HEAD
 ## Technologies
 
 -   React.js

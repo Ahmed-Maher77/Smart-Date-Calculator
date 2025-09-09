@@ -24,19 +24,6 @@ A sophisticated date calculator that enables users to:
 
 <hr/>
 
-<<<<<<< HEAD
-## Technologies
-
--   React.js
--   CSS Modules
--   HTML Semantic Markup
--   Vite Build System
-
-<hr/>
-
-## Installation
-
-=======
 ## 💻 Used Technologies  
 
 - **React.js** → Component-based library for building dynamic UIs.  
@@ -47,7 +34,6 @@ A sophisticated date calculator that enables users to:
 <hr/>
 
 ## 📤 Installation
->>>>>>> 9760c950e4495a130d7a95603d265ff87acaca86
 ```bash
 npm install
 npm run dev

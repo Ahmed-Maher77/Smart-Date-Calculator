@@ -35,6 +35,18 @@ A sophisticated date calculator that enables users to:
 
 ## Installation
 
+=======
+## 💻 Used Technologies  
+
+- **React.js** → Component-based library for building dynamic UIs.  
+- **CSS Modules** → Scoped, maintainable styling at the component level.  
+- **HTML5 Semantic Markup** → Provides accessible and well-structured content.  
+- **Vite** → Fast build tool and development server for modern React apps.  
+
+<hr/>
+
+## 📤 Installation
+>>>>>>> 9760c950e4495a130d7a95603d265ff87acaca86
 ```bash
 npm install
 npm run dev

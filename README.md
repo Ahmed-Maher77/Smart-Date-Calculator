@@ -43,9 +43,8 @@ A sophisticated date calculator that enables users to:
 
 ## 👀 Website Preview:
 <a href="https://smart-date-calculator.netlify.app/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/179e1f13-6bf4-43a5-9f47-440354d7ff89" alt="website preview - UI Mockup" width="400">
 </a>
-
 
 <hr/>
 
